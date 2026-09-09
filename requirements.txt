@@ -1,0 +1,12 @@
+osmnx>=1.9
+geopandas>=0.14
+networkx>=3.2
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+statsmodels>=0.14
+libpysal>=4.10
+census>=0.8
+us>=3.1
+jupyter
